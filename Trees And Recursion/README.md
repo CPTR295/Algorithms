@@ -22,3 +22,9 @@ We are given a **binary tree** representing houses and streets. Each **leaf node
 
 - [HalloweenHaul_UsingRecursion.md](HalloweenHaul_UsingRecursion.md)
 - [HalloweenHaul_UsingStack.md](HalloweenHaul_UsingStack.md)
+
+### 4. Money Grubbers
+
+Given a set of **bulk purchase schemes** and a **unit price**, compute the minimum cost to buy a certain number of items (or more), considering both schemes and unit pricing.
+
+- [MoneyGrubbers_UsingRecursion.md](MoneyGrubbers_UsingRecursion.md)
