@@ -28,3 +28,9 @@ We are given a **binary tree** representing houses and streets. Each **leaf node
 Given a set of **bulk purchase schemes** and a **unit price**, compute the minimum cost to buy a certain number of items (or more), considering both schemes and unit pricing.
 
 - [MoneyGrubbers_UsingRecursion.md](MoneyGrubbers_UsingRecursion.md)
+
+### 5. Hockey Rivalry
+
+Two hockey teams (**Geese** and **Hawks**) each played **n games**. For each game, we know the result (**Win** or **Loss**) and goals scored. We don't know which games were against each other. A **rivalry game** is valid when one team wins with more goals than the other team loses with. The task is to determine the **maximum number of goals** scored in possible rivalry games.
+
+- [HockeyRivalry_UsingRecursion.md](HockeyRivalry_UsingRecursion.md)
