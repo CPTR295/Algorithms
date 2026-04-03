@@ -4,6 +4,14 @@ A comprehensive collection of algorithm implementations across various topics an
 
 ## Folders
 
+### [Graphs](Graphs/)
+Graph algorithms and problems solved using Breadth-First Search (BFS).
+
+Problems included:
+- Book Translation
+- Knight Chase
+- Rope Climb
+
 ### [Hash Table](Hash%20Table/)
 Algorithms and data structures related to hash tables and hashing techniques.
 
