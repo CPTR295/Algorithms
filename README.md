@@ -5,15 +5,22 @@ A comprehensive collection of algorithm implementations across various topics an
 ## Folders
 
 ### [Graphs](Graphs/)
-Graph algorithms and problems solved using Breadth-First Search (BFS).
+Graph algorithms and problems solved using Breadth-First Search (BFS) and Dijkstra's algorithm.
 
 Problems included:
 - Book Translation
 - Knight Chase
 - Rope Climb
+- Grandma Planner
+- Mice Maze
 
 ### [Hash Table](Hash%20Table/)
 Algorithms and data structures related to hash tables and hashing techniques.
+
+Problems included:
+- Compound Words
+- Spell Check
+- Unique Snowflakes
 
 ### [Trees and Recursion](Trees%20And%20Recursion/)
 Implementations using recursive approaches and tree-based algorithms.
