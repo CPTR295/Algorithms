@@ -4,6 +4,14 @@ A comprehensive collection of algorithm implementations across various topics an
 
 ## Folders
 
+### [Binary Search](Binary%20Search/)
+Efficient searching and optimization using binary search on monotonic sequences.
+
+Problems included:
+- Feeding Ants
+- River Jump
+- Living Quality
+
 ### [Graphs](Graphs/)
 Graph algorithms and problems solved using Breadth-First Search (BFS) and Dijkstra's algorithm.
 
