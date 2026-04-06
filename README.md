@@ -30,6 +30,15 @@ Problems included:
 - Spell Check
 - Unique Snowflakes
 
+### [Heaps And Segment Trees](Heaps%20And%20Segment%20Trees/)
+Data structures for efficient range queries and priority management using heaps and segment trees.
+
+Problems included:
+- Building a Treap (Recursion)
+- Building a Treap (Segment Tree)
+- Supermarket Promotion
+- Maximum Pair Sum with Updates
+
 ### [Trees and Recursion](Trees%20And%20Recursion/)
 Implementations using recursive approaches and tree-based algorithms.
 
