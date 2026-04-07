@@ -57,6 +57,14 @@ Problems included:
 - Hockey Rivalry
 - Money Grubbers
 
+### [Union Find](Union%20Find/)
+Disjoint Set Union (DSU) data structure for managing grouping and connectivity problems efficiently.
+
+Problems included:
+- Drawer Chore
+- Friends and Enemies
+- Social Network Communities
+
 ## Getting Started
 
 Each folder contains:
